@@ -5182,6 +5182,12 @@ textarea.form-control-lg {
   
 }
 
+.progress-bar:hover {
+  background-color: #3D0814;
+  transition-duration: 2s;
+
+}
+
 @media (prefers-reduced-motion: reduce) {
   .progress-bar {
     transition: none;
